@@ -3,8 +3,4 @@ seaborn
 numpy
 matplotlib
 scikit-learn
-catboost
-xgboost
-dill
-Flask
-#-e .
+Prophet Library
